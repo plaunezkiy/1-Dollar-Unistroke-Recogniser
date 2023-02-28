@@ -7,7 +7,7 @@ The $1 Unistroke Recognizer is a 2-D single-stroke recognizer designed for rapid
 
 ## Set up instructions:
 * (optional) Set up the environment - venv:
-     * ```python -m venv venv```
+     ```python -m venv venv```
      * Windows:
          * ```source venv/scripts/activate ```
      * Unix:
