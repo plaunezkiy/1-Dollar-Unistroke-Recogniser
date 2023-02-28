@@ -7,20 +7,37 @@ The $1 Unistroke Recognizer is a 2-D single-stroke recognizer designed for rapid
 
 ## Set up instructions:
 * (optional) Set up the environment - venv:
-     ```python -m venv venv```
+     
+     ```
+     python -m venv venv
+     ```
      * Windows:
-         * ```source venv/scripts/activate ```
+          
+          ```
+          source venv/scripts/activate
+          ```
      * Unix:
-         * ```source venv/bin/activate```
+          
+          ```
+          source venv/bin/activate
+          ```
 
 * Install dependencies:
-    * Kivy 
-        * ```pip install kivy```
-    * numpy
-        * ```pip install numpy```
+    
+    * Kivy, numpu
+         
+         ```
+         pip install kivy numpy
+         ```
 
 * Clone the repo on your machine
-    * ```git clone ```
+
+     ```
+     git clone https://github.com/plaunezkiy/1-Dollar-Unistroke-Recogniser.git
+     ```
 
 * cd to the folder and fire it up
-    * ```cd 1-dollar-unistroke-recogniser && python main.py```
+
+     ```
+     cd 1-Dollar-Unistroke-Recogniser && python main.py
+     ```
